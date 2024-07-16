@@ -30,7 +30,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 📝 Publications
 
-​ \*_equal contribution_
+ \*_equal contribution_
 
 ### 2024
 
@@ -61,8 +61,6 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 # 🔬 Research Experience
 
 - _2023.10 - now_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
-
-<span class='anchor' id='-skills'></span>
 
 # 🛠️ Skills
 
