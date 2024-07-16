@@ -13,10 +13,10 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-educations"s
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Research Experience"
+    url: "/#-research-experience"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Skills"
+    url: "/#-skills"
