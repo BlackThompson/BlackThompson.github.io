@@ -30,7 +30,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 📝 Publications
 
- \*_equal contribution_
+\*_equal contribution_
 
 ### 2024
 
@@ -46,11 +46,11 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
   **Black Sun**, Xinrong Miao
 
-  _Proceedings of the International Conference on Machine Learning and Computer Application (ICMLCA‘23)._
+  _Proceedings of the International Conference on Machine Learning and Computer Application (ICMLCA'23)._
 
 # 🏆 Honors and Awards
 
-- _2024.07_ IEEE International Conference on Digital Health (ICDH) Best Student Paper
+- _2024.07_ IEEE International Conference on Digital Health (ICDH'24) Best Student Paper
 - _2024.06_ College Students' Innovative Entrepreneurial Training Plan Program (National Level) Completed as Team Leader
 
 # 📖 Educations
@@ -68,7 +68,6 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 - **Programming Languages:** Python, Java, C++, C
 - **Frontend:** HTML/CSS, JavaScript, React, Vue.js
-- **Backend:** Node.js, Spring Boot, Django, Flask
 - **Databases:** MySQL, MongoDB
 - **Game Development:** Unity
 - **Hardware Development:** Arduino, Raspberry Pi
