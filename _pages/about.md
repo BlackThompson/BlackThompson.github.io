@@ -34,6 +34,12 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 ### 2024
 
+- **MultiSurf-GPT: Facilitating Context-Aware Reasoning with Large-Scale Language Model Agents for Multimodal Surface Sensing.**
+
+  Yongquan Hu, **Black Sun**, Pengcheng An, Zhuying Li, Wen hu, Aaron J Quigley.
+
+  *Proceedings of the International Conference on Mobile Human-Computer Interaction (MobileHCI'24) Late-Breaking Work*
+
 - <span style="color:red">(Best Student Paper Award)</span> **NeuroFetalNet: Advancing Remote Electronic Fetal Monitoring with a New Dataset and Comparative Analysis of FHR and UCP Impact.**
 
   **Black Sun**, Jiaqi Zhao, Xinrong Miao, Yanqiao Wu, Min Fang.
@@ -44,7 +50,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 - **Sonicscape: Unveiling and Alleviating Natural Sound Proportions in Urban Environmental Noise Pollution.**
 
-  **Black Sun**, Xinrong Miao
+  **Black Sun**, Xinrong Miao.
 
   _Proceedings of the International Conference on Machine Learning and Computer Application (ICMLCA'23)._
 
