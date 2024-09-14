@@ -38,13 +38,13 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
   Yongquan Hu, **Black Sun**, Pengcheng An, Zhuying Li, Wen Hu, Aaron J Quigley.
 
-  _Proceedings of the International Conference on Mobile Human-Computer Interaction (MobileHCI'24) Late-Breaking Work._
+  _Proceedings of the International Conference on Mobile Human-Computer Interaction (MobileHCI '24) Late-Breaking Work._
 
 - <span style="color:red">(Best Student Paper Award)</span> **NeuroFetalNet: Advancing Remote Electronic Fetal Monitoring with a New Dataset and Comparative Analysis of FHR and UCP Impact.**
 
   **Black Sun**, Jiaqi Zhao, Xinrong Miao, Yanqiao Wu, Min Fang.
 
-  _Proceedings of the IEEE International Conference on Digital Health (ICDH'24)._
+  _Proceedings of the IEEE International Conference on Digital Health (ICDH '24)._
 
 ### 2023
 
@@ -52,7 +52,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
   **Black Sun**, Xinrong Miao.
 
-  _Proceedings of the International Conference on Machine Learning and Computer Application (ICMLCA'23)._
+  _Proceedings of the International Conference on Machine Learning and Computer Application (ICMLCA '23)._
 
 # 🏆 Honors and Awards
 
@@ -69,9 +69,10 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 - _2023.10 - now_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
 
 <span class='anchor' id='-exchange'></span>
+
 # 🌍 Exchange Experience
 
-- *2023.05 - 2023.07*, [School of Computing Summer Workshop 2023](https://github.com/BlackThompson/HCI-Hot-Research-Topic-Analysis-and-Modeling), National University of Singapore, Singapore
+- _2023.05 - 2023.07_, [School of Computing Summer Workshop 2023](https://github.com/BlackThompson/HCI-Hot-Research-Topic-Analysis-and-Modeling), National University of Singapore, Singapore
 
 <span class='anchor' id='-skills'></span>
 
