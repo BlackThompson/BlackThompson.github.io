@@ -56,7 +56,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🏆 Honors and Awards
 
-- _2024.07_ IEEE International Conference on Digital Health (ICDH'24) Best Student Paper
+- _2024.07_ IEEE International Conference on Digital Health (ICDH '24) Best Student Paper
 - _2024.06_ College Students' Innovative Entrepreneurial Training Plan Program (National Level) Completed as Team Leader
 
 # 🎓 Educations
