@@ -36,13 +36,13 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 - **MultiSurf-GPT: Facilitating Context-Aware Reasoning with Large-Scale Language Model Agents for Multimodal Surface Sensing.**
 
-  Yongquan Hu, **Black Sun**, Pengcheng An, Zhuying Li, Wen Hu, Aaron J Quigley.
+  Yongquan Hu, <u>Black Sun</u>, Pengcheng An, Zhuying Li, Wen Hu, Aaron J Quigley.
 
   _Proceedings of the International Conference on Mobile Human-Computer Interaction (MobileHCI '24) Late-Breaking Work._
 
-- <span style="color:red">(Best Student Paper Award)</span> **NeuroFetalNet: Advancing Remote Electronic Fetal Monitoring with a New Dataset and Comparative Analysis of FHR and UCP Impact.**
+- <span style="color:red">(🏆Best Student Paper Award)</span> **NeuroFetalNet: Advancing Remote Electronic Fetal Monitoring with a New Dataset and Comparative Analysis of FHR and UCP Impact.**
 
-  **Black Sun**, Jiaqi Zhao, Xinrong Miao, Yanqiao Wu, Min Fang.
+  <u>Black Sun</u>, Jiaqi Zhao, Xinrong Miao, Yanqiao Wu, Min Fang.
 
   _Proceedings of the IEEE International Conference on Digital Health (ICDH '24)._
 
@@ -50,7 +50,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 - **Sonicscape: Unveiling and Alleviating Natural Sound Proportions in Urban Environmental Noise Pollution.**
 
-  **Black Sun**, Xinrong Miao.
+  <u>Black Sun</u>, Xinrong Miao.
 
   _Proceedings of the International Conference on Machine Learning and Computer Application (ICMLCA '23)._
 
@@ -66,7 +66,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🔬 Research Experience
 
-- _2023.10 - now_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
+- _2023.10 - 2024.10_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
 
 <span class='anchor' id='-exchange'></span>
 
