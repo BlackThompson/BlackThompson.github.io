@@ -56,13 +56,14 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🏆 Honors and Awards
 
+- *2024.08* Danish State Scholarships *1
 - _2024.07_ IEEE International Conference on Digital Health (ICDH '24) Best Student Paper
 - _2024.06_ College Students' Innovative Entrepreneurial Training Plan Program (National Level) Completed as Team Leader
 
 # 🎓 Educations
 
 - _2024.08 - 2026.06 (expected)_, MSc in Computer Science, Aarhus University, Danmark.
-- _2020.09 - 2024.06_, BEng in Computer Science, Harbin Institute of Technology, Shenzhen, China.
+- _2020.09 - 2024.06_, BEng in Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China.
 
 # 🔬 Research Experience
 
