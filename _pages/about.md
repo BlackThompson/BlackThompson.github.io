@@ -24,7 +24,7 @@ My research interests include human-computer interaction related to <span style=
 
 I like engaging in interdisciplinary exchanges and collaborations with all fields. Feel free to email me if you are interested in **collaborating or discussing research ideas**. I look forward to generating thought-provoking discussions!
 
-<span style="color:red">🔈 **I am actively seeking for 2025 Summer HCI Research Internship, please don’t hesitate to contact me if you think I might be a good fit!**</span> 😀
+<span style="color:red">🔈**I am actively seeking for 2025 Summer HCI Research Internship, please don’t hesitate to contact me if you think I might be a good fit!**</span>
 
 # 🔥 News
 
@@ -58,7 +58,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🏆 Honors and Awards
 
-- *2024.08* Danish State Scholarships *1
+- _2024.08_ Danish State Scholarships \*1
 - _2024.07_ IEEE International Conference on Digital Health (ICDH '24) Best Student Paper
 - _2024.06_ College Students' Innovative Entrepreneurial Training Plan Program (National Level) Completed as Team Leader
 
