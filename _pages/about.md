@@ -28,11 +28,20 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🔥 News
 
+- _2025.01_: 🎉🎉🎉 One paper is accepted by CHI2025! My first CHI! Many thanks to my co-author and supervisor!
 - _2024.08_: 📚 I will start my Master's degree in Computer Science at Aarhus University (an exciting new journey)!
 
-# 📝 Publications
+# 📝 Selected Publications
 
-\*_equal contribution_
+\* _**equal contribution**_
+
+### 2025
+
+- **Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate**
+
+  Zihan Zhang\*, <u>Black Sun</u>\*, Pengcheng An.
+
+  _Proceedings of  the ACM Conference on Human Factors in Computing Systems (CHI '25)._
 
 ### 2024
 
@@ -48,14 +57,6 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
   _Proceedings of the IEEE International Conference on Digital Health (ICDH '24)._
 
-### 2023
-
-- **Sonicscape: Unveiling and Alleviating Natural Sound Proportions in Urban Environmental Noise Pollution.**
-
-  <u>Black Sun</u>, Xinrong Miao.
-
-  _Proceedings of the International Conference on Machine Learning and Computer Application (ICMLCA '23)._
-
 # 🏆 Honors and Awards
 
 - _2024.08_ Danish State Scholarships \*1
@@ -69,7 +70,8 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🔬 Research Experience
 
-- _2023.10 - 2024.10_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
+- _2024.11 - Present_, [Interactive Matter Lab](https://interactivematterlab.org/), Aarhus University, advised by [Dr. Michael Wessely](https://interactivematterlab.org/profile.html).
+- _2023.10 - 2024.12_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
 
 <span class='anchor' id='-exchange'></span>
 
