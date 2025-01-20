@@ -37,7 +37,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 ### 2025
 
-- **Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate**
+- **Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate.**
 
   Zihan Zhang\*, <u>Black Sun</u>\*, Pengcheng An.
 
