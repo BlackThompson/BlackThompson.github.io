@@ -31,6 +31,8 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 - _2025.01_: 🎉🎉🎉 One paper is accepted by CHI2025! My first CHI! Many thanks to my co-author and supervisor!
 - _2024.08_: 📚 I will start my Master's degree in Computer Science at Aarhus University (an exciting new journey)!
 
+<span class='anchor' id='-publications'></span>
+
 # 📝 Selected Publications
 
 \* _**equal contribution**_
@@ -41,7 +43,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
   Zihan Zhang\*, <u>Black Sun</u>\*, Pengcheng An.
 
-  _Proceedings of  the ACM Conference on Human Factors in Computing Systems (CHI '25)._
+  _Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI '25)._
 
 ### 2024
 
