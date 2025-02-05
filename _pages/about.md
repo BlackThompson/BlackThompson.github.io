@@ -35,7 +35,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 📝 Selected Publications
 
-\* _**equal contribution**_
+\* _**equal contribution**_	† ***corresponding author***
 
 ### 2025
 
