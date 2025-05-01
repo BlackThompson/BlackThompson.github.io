@@ -72,7 +72,8 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🔬 Research Experience
 
-- _2024.11 - Present_, [Interactive Matter Lab](https://interactivematterlab.org/), Aarhus University, advised by [Dr. Michael Wessely](https://interactivematterlab.org/profile.html).
+- *2025.05 - present*, [AI4SG Lab](https://www.ai4sg.org/), National University of Singapore, advised by [Dr. Yi-Chieh (EJ) Lee](https://www.yclee.net/).
+- _2024.11 - 2025.04_, [Interactive Matter Lab](https://interactivematterlab.org/), Aarhus University, advised by [Dr. Michael Wessely](https://interactivematterlab.org/profile.html).
 - _2023.10 - 2024.12_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
 
 <span class='anchor' id='-exchange'></span>
