@@ -18,9 +18,9 @@ redirect_from:
 
 I am currently pursuing a Master’s degree in Computer Science, focusing on Human-Computer Interaction and Ubiquitous Computing at Aarhus University, Denmark.
 
-I graduated from the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen (HITSZ), with a bachelor's degree in Computer Science. During my undergraduate studies, I worked as a research assistant at the [ai{DEAL} Studio](https://anpengcheng.cn/about/), School of Design, Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/). My work primarily focused on Human-AI Interaction and Collaboration.
+I received my Bachelor’s degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen (HITSZ). During my undergraduate studies, I worked as a research assistant at the [ai{DEAL} Studio](https://anpengcheng.cn/about/), School of Design, Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/). I am currently a research intern at the [AI4SG Lab](https://www.ai4sg.org/) at the National University of Singapore (NUS), supervised by [Dr. Yi-Chieh Lee](https://www.yclee.net/), and previously interned at the [Interactive Matter Lab](https://interactivematterlab.org/index.html) at Aarhus University, supervised by [Dr. Michael Wessely](https://interactivematterlab.org/profile.html).
 
-My research interests include human-computer interaction related to <span style="color:rgb(144,200,144)">**health**</span> and <span style="color:lightpink">**social computing**</span>. I am always passionate about applying computer technologies and algorithms to improve people’s health and well-being.
+My research interests include human-computer interaction related to <span style="color:rgb(144,200,144)">**health**</span> and <span style="color:lightpink">**social computing**</span>. My passion lies in using AI technologies and/or wearable devices to enhance human well-being, aiming to improve people’s lives. Additionally, I am keen on analyzing information from online media/apps to understand how digital platforms reflect and influence specific communities.
 
 I like engaging in interdisciplinary exchanges and collaborations with all fields. Feel free to email me if you are interested in **collaborating or discussing research ideas**. I look forward to generating thought-provoking discussions!
 
@@ -28,7 +28,9 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🔥 News
 
-- _2025.01_: 🎉🎉🎉 One paper is accepted by CHI2025! My first CHI! Many thanks to my co-author and supervisor!
+- _2025.07_: 🎉🎉🎉 One paper is accepted by Ubicomp 2025 Wellcomp! Congratulations to my co-author!
+- _2025.07_: 🥰 I am accepted as a Student Volunteer for Ubicomp 2025! See you in Espoo, Finland!
+- _2025.01_: 🎉🎉🎉 One paper is accepted by CHI 2025! My first CHI! Many thanks to my co-author and supervisor!
 - _2024.08_: 📚 I will start my Master's degree in Computer Science at Aarhus University (an exciting new journey)!
 
 <span class='anchor' id='-publications'></span>
@@ -38,6 +40,12 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 \* _**equal contribution**_	† ***corresponding author***
 
 ### 2025
+
+- **CTG-Insight: A Multi-Agent Interpretable LLM Framework for Cardiotocography Analysis and Classification**
+
+  <u>Black Sun</u>, Die (Delia) Hu.
+
+  _Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '24) Wellcomp_
 
 - **Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate.**
 
@@ -72,8 +80,8 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🔬 Research Experience
 
-- *2025.05 - present*, [AI4SG Lab](https://www.ai4sg.org/), National University of Singapore, advised by [Dr. Yi-Chieh (EJ) Lee](https://www.yclee.net/).
-- _2024.11 - 2025.04_, [Interactive Matter Lab](https://interactivematterlab.org/), Aarhus University, advised by [Dr. Michael Wessely](https://interactivematterlab.org/profile.html).
+- _2025.05 - present_, [AI4SG Lab](https://www.ai4sg.org/), National University of Singapore (NUS), advised by [Dr. Yi-Chieh Lee](https://www.yclee.net/).
+- _2024.11 - 2025.06_, [Interactive Matter Lab](https://interactivematterlab.org/), Aarhus University, advised by [Dr. Michael Wessely](https://interactivematterlab.org/profile.html).
 - _2023.10 - 2024.12_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
 
 <span class='anchor' id='-exchange'></span>
