@@ -76,6 +76,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 # 🎓 Educations
 
 - _2024.08 - 2026.06 (expected)_, MSc in Computer Science, Aarhus University, Danmark.
+- _2023.05 - 2023.07_, [School of Computing Summer Workshop 2023](https://github.com/BlackThompson/HCI-Hot-Research-Topic-Analysis-and-Modeling), National University of Singapore, Singapore
 - _2020.09 - 2024.06_, BEng in Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China.
 
 # 🔬 Research Experience
@@ -84,13 +85,13 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 - _2024.11 - 2025.06_, [Interactive Matter Lab](https://interactivematterlab.org/), Aarhus University, advised by [Dr. Michael Wessely](https://interactivematterlab.org/profile.html).
 - _2023.10 - 2024.12_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
 
-<span class='anchor' id='-exchange'></span>
+<!-- <span class='anchor' id='-exchange'></span>
 
-# 🌍 Exchange Experience
+# 🌍 Exchange Experience -->
 
-- _2023.05 - 2023.07_, [School of Computing Summer Workshop 2023](https://github.com/BlackThompson/HCI-Hot-Research-Topic-Analysis-and-Modeling), National University of Singapore, Singapore
 
-<span class='anchor' id='-skills'></span>
+
+<!-- <span class='anchor' id='-skills'></span>
 
 # 🛠️ Skills
 
@@ -100,4 +101,4 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 - **Game Development:** Unity
 - **Hardware Development:** Arduino, Raspberry Pi
 - **Machine Learning & Deep Learning:** PyTorch, scikit-learn
-- **Large Language Models (LLMs):** fine-tuning, prompt engineering, LangChain, LangGraph, AgentScope
+- **Large Language Models (LLMs):** fine-tuning, prompt engineering, LangChain, LangGraph, AgentScope -->
