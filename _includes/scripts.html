@@ -29,27 +29,27 @@
   `;
 
     content.innerHTML = `
-    <h3 style="margin: 0 0 15px 0; color: #333;">微信公众号</h3>
-    <p style="margin: 0 0 15px 0; color: #666;">请扫描二维码关注</p>
-    <div style="background: #f0f0f0; padding: 20px; border-radius: 5px; margin: 15px 0;">
-      {% if site.author.wechat_qr_image %}
-        <img src="{{ site.author.wechat_qr_image }}" alt="微信公众号二维码" style="max-width: 200px; height: auto;">
-      {% else %}
-        <p style="margin: 0; color: #999;">二维码图片</p>
-        <p style="margin: 5px 0 0 0; font-size: 12px; color: #999;">请在_config.yml中配置wechat_qr_image路径</p>
-      {% endif %}
-    </div>
-    <p style="margin: 10px 0 0 0; font-size: 14px; color: #333;">{{ site.author.wechat_mp }}</p>
-    <button onclick="this.parentElement.parentElement.remove()" style="
-      background: #007bff;
-      color: white;
-      border: none;
-      padding: 8px 16px;
-      border-radius: 5px;
-      cursor: pointer;
-      margin-top: 10px;
-    ">关闭</button>
-  `;
+     <h3 style="margin: 0 0 15px 0; color: #333;">WeChat Official Account</h3>
+     <p style="margin: 0 0 15px 0; color: #666;">Scan QR code to follow</p>
+     <div style="background: #f0f0f0; padding: 20px; border-radius: 5px; margin: 15px 0;">
+       {% if site.author.wechat_qr_image %}
+         <img src="{{ site.author.wechat_qr_image }}" alt="WeChat QR Code" style="max-width: 200px; height: auto;">
+       {% else %}
+         <p style="margin: 0; color: #999;">QR Code Image</p>
+         <p style="margin: 5px 0 0 0; font-size: 12px; color: #999;">Please configure wechat_qr_image path in _config.yml</p>
+       {% endif %}
+     </div>
+     <p style="margin: 10px 0 0 0; font-size: 14px; color: #333;">{{ site.author.wechat_mp }}</p>
+     <button onclick="this.parentElement.parentElement.remove()" style="
+       background: #007bff;
+       color: white;
+       border: none;
+       padding: 8px 16px;
+       border-radius: 5px;
+       cursor: pointer;
+       margin-top: 10px;
+     ">Close</button>
+   `;
 
     modal.appendChild(content);
     document.body.appendChild(modal);
@@ -62,5 +62,30 @@
     });
   }
 </script>
+
+<style>
+  /* 微信公众号图标样式 - 绿色 */
+  .author__urls .social-icons li a[onclick*="showWechatQR"] i,
+  .author__urls_sm a[onclick*="showWechatQR"] i {
+    color: #07c160 !important; /* 微信绿色 */
+  }
+
+  /* 小红书图标样式 - 红色 */
+  .author__urls .social-icons li a[href*="xiaohongshu.com"] i,
+  .author__urls_sm a[href*="xiaohongshu.com"] i {
+    color: #ff2442 !important; /* 小红书红色 */
+  }
+
+  /* 悬停效果 */
+  .author__urls .social-icons li a[onclick*="showWechatQR"]:hover i,
+  .author__urls_sm a[onclick*="showWechatQR"]:hover i {
+    color: #06ad56 !important; /* 深绿色悬停效果 */
+  }
+
+  .author__urls .social-icons li a[href*="xiaohongshu.com"]:hover i,
+  .author__urls_sm a[href*="xiaohongshu.com"]:hover i {
+    color: #e61e3c !important; /* 深红色悬停效果 */
+  }
+</style>
 
 {% include analytics.html %} {% include fetch_google_scholar_stats.html %}

@@ -190,7 +190,7 @@ endif %}
       </li>
       {% endif %} {% if author.wechat_mp %}
       <li>
-        <a href="javascript:void(0);" onclick="showWechatQR()"
+        <a href="#" onclick="showWechatQR(); return false;"
           ><i class="fas fa-fw fa-comments" aria-hidden="true"></i> WeChat MP</a
         >
       </li>
@@ -345,7 +345,7 @@ endif %}
         ><i class="fab fa-fw fa-weibo" aria-hidden="true"></i
       ></a>
       {% endif %} {% if author.wechat_mp %}
-      <a href="javascript:void(0);" onclick="showWechatQR()"
+      <a href="#" onclick="showWechatQR(); return false;"
         ><i class="fas fa-fw fa-comments" aria-hidden="true"></i
       ></a>
       {% endif %} {% if author.rednote %}
