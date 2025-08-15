@@ -81,9 +81,21 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🔬 Research Experience
 
-- _2025.05 - present_, [AI4SG Lab](https://www.ai4sg.org/), National University of Singapore (NUS), advised by [Dr. Yi-Chieh Lee](https://www.yclee.net/).
-- _2024.11 - 2025.06_, [Interactive Matter Lab](https://interactivematterlab.org/), Aarhus University, advised by [Dr. Michael Wessely](https://interactivematterlab.org/profile.html).
-- _2023.10 - 2024.12_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
+- _2025.07 - present_, 10 ECTs Research Projects, Aarhus University
+
+  Advised by [Dr. Jens Emil Sloth Grønbæk](https://jensemil.dk/), [Dr. ‪Eve Hoggan](https://eehoggan.github.io/#/), and PhD candidate [Julia Kleinau](https://scholar.google.com/citations?user=QoRWBtIAAAAJ&hl=en).
+
+- _2025.05 - present_, [AI4SG Lab](https://www.ai4sg.org/), National University of Singapore (NUS)
+
+  Advised by [Dr. Yi-Chieh Lee](https://www.yclee.net/) and PhD candidate [Holly Tianqi Song](https://hollysong.notion.site/).
+
+- _2024.11 - 2025.06_, [Interactive Matter Lab](https://interactivematterlab.org/), Aarhus University
+
+  Advised by [Dr. Michael Wessely](https://interactivematterlab.org/profile.html), and PhD candidate [Yijing Jiang](https://www.yijingjiang.com/).
+
+- _2023.10 - 2024.12_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech)
+
+  Advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
 
 
 
