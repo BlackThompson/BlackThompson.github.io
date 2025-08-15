@@ -93,7 +93,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 > *I do not limit my work to my own discipline, I am enthusiastic about exploring diverse professions and engaging with people from various fascinating backgrounds.*
 
-- _2025.08 - present_, 🍜🍥 Line Cook, [Ramen Takumi](https://www.facebook.com/RamenTakumi.DK/), Aarhus, Denmark.
+- _2025.07 - present_, 🍜🍥 Line Cook, [Ramen Takumi](https://www.facebook.com/RamenTakumi.DK/), Aarhus, Denmark.
 - _2024.03 - 2024.08_, 🍸🍹 Trainee Bartender, Shenzhen, China.
 
 <span class='anchor' id='-service'></span>
