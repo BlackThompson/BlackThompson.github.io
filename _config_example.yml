@@ -1,0 +1,21 @@
+# 微信公众号和小红书配置示例
+# 复制以下配置到你的 _config.yml 文件中
+
+author:
+  # ... 其他配置 ...
+
+  # 微信公众号配置
+  wechat_mp: "BlackSun_HCI" # 你的微信公众号ID或名称
+  wechat_qr_image: "images/wechat_qr.png" # 二维码图片路径
+
+  # 小红书配置
+  rednote: "black_sun_hci" # 你的小红书用户名
+
+
+  # ... 其他配置 ...
+# 使用说明：
+# 1. wechat_mp: 填写你的微信公众号ID或名称
+# 2. wechat_qr_image: 将你的微信公众号二维码图片放在 images/ 目录下，然后在这里指定路径
+# 3. rednote: 填写你的小红书用户名，系统会自动生成链接到你的小红书主页
+# 4. 保存配置文件后重启 Jekyll 服务器
+# 5. 在侧边栏中会显示新的社交媒体链接

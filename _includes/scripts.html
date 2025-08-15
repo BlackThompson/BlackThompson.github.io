@@ -1,4 +1,66 @@
 <script src="assets/js/main.min.js"></script>
 
-{% include analytics.html %}
-{% include fetch_google_scholar_stats.html %}
+<script>
+  function showWechatQR() {
+    // 创建模态框显示微信公众号二维码
+    var modal = document.createElement("div");
+    modal.style.cssText = `
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  `;
+
+    var content = document.createElement("div");
+    content.style.cssText = `
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 300px;
+    cursor: default;
+  `;
+
+    content.innerHTML = `
+    <h3 style="margin: 0 0 15px 0; color: #333;">微信公众号</h3>
+    <p style="margin: 0 0 15px 0; color: #666;">请扫描二维码关注</p>
+    <div style="background: #f0f0f0; padding: 20px; border-radius: 5px; margin: 15px 0;">
+      {% if site.author.wechat_qr_image %}
+        <img src="{{ site.author.wechat_qr_image }}" alt="微信公众号二维码" style="max-width: 200px; height: auto;">
+      {% else %}
+        <p style="margin: 0; color: #999;">二维码图片</p>
+        <p style="margin: 5px 0 0 0; font-size: 12px; color: #999;">请在_config.yml中配置wechat_qr_image路径</p>
+      {% endif %}
+    </div>
+    <p style="margin: 10px 0 0 0; font-size: 14px; color: #333;">{{ site.author.wechat_mp }}</p>
+    <button onclick="this.parentElement.parentElement.remove()" style="
+      background: #007bff;
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-top: 10px;
+    ">关闭</button>
+  `;
+
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+
+    // 点击背景关闭模态框
+    modal.addEventListener("click", function (e) {
+      if (e.target === modal) {
+        modal.remove();
+      }
+    });
+  }
+</script>
+
+{% include analytics.html %} {% include fetch_google_scholar_stats.html %}
