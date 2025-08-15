@@ -75,9 +75,9 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🎓 Educations
 
-- _2024.08 - 2026.06 (expected)_, MSc in Computer Science, Aarhus University, Danmark.
-- _2023.05 - 2023.07_, [School of Computing Summer Workshop 2023](https://github.com/BlackThompson/HCI-Hot-Research-Topic-Analysis-and-Modeling), National University of Singapore, Singapore.
-- _2020.09 - 2024.06_, BEng in Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China.
+- _2024.08 - 2026.06 (expected)_, [MSc in Computer Science](https://masters.au.dk/computerscience), [Aarhus University](https://international.au.dk/), Denmark.
+- _2023.05 - 2023.07_, [School of Computing Summer Workshop 2023](https://github.com/BlackThompson/HCI-Hot-Research-Topic-Analysis-and-Modeling), [National University of Singapore](https://nus.edu.sg/), Singapore.
+- _2020.09 - 2024.06_, BEng in Computer Science and Technology, [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), China.
 
 # 🔬 Research Experience
 
@@ -100,8 +100,6 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🏛️ Service
 
-<span class='anchor' id='-friends'></span>
-
 **Student Volunteer**
 
 - ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp): 2025
@@ -110,6 +108,8 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 - ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2025 Poster
 - IEEE International Joint Conference on Neural Networks (IJCNN): 2024
+
+<span class='anchor' id='-friends'></span>
 
 # 🫂 Friends
 
