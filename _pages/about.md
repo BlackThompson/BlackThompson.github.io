@@ -41,13 +41,13 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 ### 2025
 
-- **CTG-Insight: A Multi-Agent Interpretable LLM Framework for Cardiotocography Analysis and Classification**
+- **CTG-Insight: A Multi-Agent Interpretable LLM Framework for Cardiotocography Analysis and Classification.**
 
   <u>Black Sun</u>, Die (Delia) Hu.
 
   _Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '24) Wellcomp_
 
-- **Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate.**
+- **Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate.** [[Link](https://dl.acm.org/doi/full/10.1145/3706598.3713853)]
 
   Zihan Zhang\*, <u>Black Sun</u>\*, Pengcheng An.
 
@@ -55,13 +55,13 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 ### 2024
 
-- **MultiSurf-GPT: Facilitating Context-Aware Reasoning with Large-Scale Language Model Agents for Multimodal Surface Sensing.**
+- **MultiSurf-GPT: Facilitating Context-Aware Reasoning with Large-Scale Language Model Agents for Multimodal Surface Sensing.** [[Link](https://dl.acm.org/doi/abs/10.1145/3640471.3680450)]
 
   Yongquan Hu, <u>Black Sun</u>, Pengcheng An, Zhuying Li, Wen Hu, Aaron J Quigley.
 
   _Proceedings of the International Conference on Mobile Human-Computer Interaction (MobileHCI '24) Late-Breaking Work._
 
-- <span style="color:red">(🏆Best Student Paper Award)</span> **NeuroFetalNet: Advancing Remote Electronic Fetal Monitoring with a New Dataset and Comparative Analysis of FHR and UCP Impact.**
+- <span style="color:red">(🏆Best Student Paper Award)</span> **NeuroFetalNet: Advancing Remote Electronic Fetal Monitoring with a New Dataset and Comparative Analysis of FHR and UCP Impact.** [[Link](https://ieeexplore.ieee.org/abstract/document/10645942) · [Code](https://github.com/BlackThompson/NeuroFetalNet)]
 
   <u>Black Sun</u>, Jiaqi Zhao, Xinrong Miao, Yanqiao Wu, Min Fang.
 
@@ -76,7 +76,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 # 🎓 Educations
 
 - _2024.08 - 2026.06 (expected)_, MSc in Computer Science, Aarhus University, Danmark.
-- _2023.05 - 2023.07_, [School of Computing Summer Workshop 2023](https://github.com/BlackThompson/HCI-Hot-Research-Topic-Analysis-and-Modeling), National University of Singapore, Singapore
+- _2023.05 - 2023.07_, [School of Computing Summer Workshop 2023](https://github.com/BlackThompson/HCI-Hot-Research-Topic-Analysis-and-Modeling), National University of Singapore, Singapore.
 - _2020.09 - 2024.06_, BEng in Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China.
 
 # 🔬 Research Experience
@@ -85,20 +85,40 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 - _2024.11 - 2025.06_, [Interactive Matter Lab](https://interactivematterlab.org/), Aarhus University, advised by [Dr. Michael Wessely](https://interactivematterlab.org/profile.html).
 - _2023.10 - 2024.12_, [ai{DEAL} Studio](https://anpengcheng.cn/about/), Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/).
 
-<!-- <span class='anchor' id='-exchange'></span>
-
-# 🌍 Exchange Experience -->
 
 
+<span class='anchor' id='-work'></span>
 
-<!-- <span class='anchor' id='-skills'></span>
+# 🧭 Work Experience
 
-# 🛠️ Skills
+> *I do not limit my work to my own discipline, I am enthusiastic about exploring diverse professions and engaging with people from various fascinating backgrounds.*
 
-- **Programming Languages:** Python, Java, C++, C
-- **Frontend:** HTML/CSS, JavaScript, React, Vue.js
-- **Databases:** MySQL, MongoDB
-- **Game Development:** Unity
-- **Hardware Development:** Arduino, Raspberry Pi
-- **Machine Learning & Deep Learning:** PyTorch, scikit-learn
-- **Large Language Models (LLMs):** fine-tuning, prompt engineering, LangChain, LangGraph, AgentScope -->
+- _2025.08 - present_, 🍜🍥 Line Cook, [Ramen Takumi](https://www.facebook.com/RamenTakumi.DK/), Aarhus, Denmark
+- _2024.03 - 2024.08_, 🍸🍹 Trainee Bartender, Shenzhen, China
+
+<span class='anchor' id='-service'></span>
+
+# 🏛️ Service
+
+<span class='anchor' id='-friends'></span>
+
+**Student Volunteer**
+
+- ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp): 2025
+
+**Conference Reviewer**
+
+- ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2025 Poster
+- IEEE International Joint Conference on Neural Networks (IJCNN): 2024
+
+# 🫂 Friends
+
+> *I’m truly thankful to my friends (or more than friends) who have supported and been there for me both in my studies and in life. I’m so glad our paths crossed💐.* 
+
+- [Holly Tianqi Song](https://hollysong.notion.site/) (PhD candidate at NUS. I met Holly by chance on RedNote. We share similar academic interests and are trusted friends and collaborators🥰.)
+- [Chenyi Zhang](https://scholar.google.com/citations?user=fRzf0_0AAAAJ&hl=en) (PhD candidate at University at Buffalo SUNY. We met and became good friends and collaborators while we were both visiting students at SUSTech. Wish Chenyi all the best on her journey in the United States.)
+- [Kexin Huang](https://scholar.google.com/citations?user=xOHik88AAAAJ&hl=en&oi=sra) (Master Student at SUSTech. Kexin was like “family member” to me at SUSTech.)
+- [Yijing Jiang](https://www.yijingjiang.com/) (PhD candidate at Aarhus University. A “strict” and “pushing” boss, but those late nights rushing for UIST over McDonald’s and KFC are truly unforgettable.)
+- [Zimo Xia](https://gelatinous-poet-461.notion.site/Zimo-s-Homepage-1ea5fb87a35d8031a4dfeeb9c1eeda6c) (Master student at NUS. Yes, we are both furry fandoms and shared similar research interests.)
+- Haiyang (Dylan) Xu, Ge (Kacy) Fu, Yunhui Song (My Master's classmates at Aarhus University. We collaborated on multiple projects and shared countless enjoyable moments together😁.)
+- **All the people who love me and whom I love.**
