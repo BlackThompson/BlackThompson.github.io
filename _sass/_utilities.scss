@@ -186,6 +186,22 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
+  /* 微信公众号图标 - 绿色 */
+  .social-icons .fa-comments,
+  .social-icons .fas.fa-comments,
+  .author__urls .fa-comments,
+  .author__urls .fas.fa-comments {
+    color: #07c160 !important;
+  }
+
+  /* 小红书图标 - 红色 */
+  .social-icons .fa-heart,
+  .social-icons .fas.fa-heart,
+  .author__urls .fa-heart,
+  .author__urls .fas.fa-heart {
+    color: #ff2442 !important;
+  }
+
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;
