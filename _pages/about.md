@@ -134,5 +134,5 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 - [Yijing Jiang](https://www.yijingjiang.com/) (PhD candidate at Aarhus University. A “strict” and “pushing” boss, but those late nights rushing for UIST over McDonald’s and KFC are truly unforgettable.)
 - [Zimo Xia](https://gelatinous-poet-461.notion.site/Zimo-s-Homepage-1ea5fb87a35d8031a4dfeeb9c1eeda6c) (Master student at NUS. Yes, we are both furry fandoms and shared similar research interests.)
 - [Sizhe Cheng](https://p.pekka.asia/) (Master student at NTU. I only regret not having met Sizhe earlier😭.)
-- Haiyang (Dylan) Xu, Ge (Kacy) Fu, Yunhui Song (My Master's classmates at Aarhus University. We collaborated on multiple projects and shared countless enjoyable moments together😁.)
+- [Haiyang (Dylan) Xu](https://uniqsea.com/), Ge (Kacy) Fu, Yunhui Song (My Master's classmates at Aarhus University. We collaborated on multiple projects and shared countless enjoyable moments together😁.)
 - **All the people who love me and whom I love.**
