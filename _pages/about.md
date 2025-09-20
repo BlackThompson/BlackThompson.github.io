@@ -18,11 +18,11 @@ redirect_from:
 
 I am currently pursuing a Master’s degree in Computer Science, focusing on Human-Computer Interaction and Ubiquitous Computing at Aarhus University, Denmark.
 
-I received my Bachelor’s degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen (HITSZ). During my undergraduate studies, I worked as a research assistant at the [ai{DEAL} Studio](https://anpengcheng.cn/about/), School of Design, Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/). I am currently a research intern at the [AI4SG Lab](https://www.ai4sg.org/) at the National University of Singapore (NUS), supervised by [Dr. Yi-Chieh Lee](https://www.yclee.net/), and previously interned at the [Interactive Matter Lab](https://interactivematterlab.org/index.html) at Aarhus University, supervised by [Dr. Michael Wessely](https://interactivematterlab.org/profile.html).
+I received my Bachelor’s degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen (HITSZ). During my undergraduate studies, I worked as a research assistant at the [ai{DEAL} Studio](https://anpengcheng.cn/about/), School of Design, Southern University of Science and Technology (SUSTech), advised by [Dr. Pengcheng An](https://anpengcheng.cn/about/). I am currently a research intern at the [AI4SG Lab](https://www.ai4sg.org/) at the National University of Singapore (NUS), supervised by [Dr. Yi-Chieh Lee](https://www.yclee.net/).
 
-My research interests include human-computer interaction related to <span style="color:rgb(144,200,144)">**health**</span> and <span style="color:lightpink">**social computing**</span>. My passion lies in using AI technologies and/or wearable devices to enhance human well-being, aiming to improve people’s lives. Additionally, I am keen on analyzing information from online media/apps to understand how digital platforms reflect and influence specific communities.
+My research interests include human-computer interaction related to <span style="color:rgb(144,200,144)">**health**</span> and <span style="color:lightpink">**social computing**</span>. My passion lies in using technologies to enhance individuals' everyday health and well-being. Additionally, I am interested in analyzing information from digital platforms to understand how they reflect and influence specific communities.
 
-I like engaging in interdisciplinary exchanges and collaborations with all fields. Feel free to email me if you are interested in **collaborating or discussing research ideas**. I look forward to generating thought-provoking discussions!
+I like engaging in interdisciplinary exchanges and collaborations with all fields. Feel free to email me if you are interested in **collaborating, discussing research ideas, or just making friends☺️**.
 
 <span style="color:red">🔈**I am actively seeking for 2026 Fall PhD position, please don’t hesitate to contact me if you think I might be a good fit!**</span>
 
@@ -35,7 +35,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 <span class='anchor' id='-publications'></span>
 
-# 📝 Selected Publications
+# 📝 Publications
 
 \* _**equal contribution**_	† ***corresponding author***
 
@@ -70,9 +70,9 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 # 🏆 Honors and Awards
 
 - _2025.09_ Student Travel Fund ([Studenterrejsepuljen](https://studerende.au.dk/studier/fagportaler/datalogi/studieliv-og-faciliteter/studenterrejsepuljen)), Aarhus University
-- _2024.08_ Danish State Scholarships \*1
+- _2024.08_ Danish State Scholarship \*1
 - _2024.07_ IEEE International Conference on Digital Health (ICDH '24) Best Student Paper
-- _2024.06_ College Students' Innovative Entrepreneurial Training Plan Program (National Level) Completed as Team Leader
+- _2024.06_ China College Students' Innovation and Entrepreneurship Project (National Level, Top 5%)
 
 # 🎓 Educations
 
@@ -82,7 +82,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🔬 Research Experience
 
-- _2025.07 - present_, 10 ECTs Research Projects, Aarhus University
+- _2025.07 - present_, [Blended Realities Lab](https://blendedrealities.jensemil.dk/), Aarhus University
 
   Advised by [Dr. Jens Emil Sloth Grønbæk](https://jensemil.dk/), [Dr. ‪Eve Hoggan](https://eehoggan.github.io/#/), and PhD candidate [Julia Kleinau](https://scholar.google.com/citations?user=QoRWBtIAAAAJ&hl=en).
 
