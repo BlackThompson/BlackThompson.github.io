@@ -49,6 +49,12 @@ endif %}
           ><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a
         >
       </li>
+      {% endif %} {% if author.cv %}
+      <li>
+        <a href="{{ author.cv }}" target="_blank"
+          ><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a
+        >
+      </li>
       {% endif %} {% if author.keybase %}
       <li>
         <a href="https://keybase.io/{{ author.keybase }}"
@@ -259,6 +265,10 @@ endif %}
       {% endif %} {% if author.email %}
       <a href="mailto:{{ author.email }}"
         ><i class="fas fa-fw fa-envelope" aria-hidden="true"></i
+      ></a>
+      {% endif %} {% if author.cv %}
+      <a href="{{ author.cv }}" target="_blank"
+        ><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i
       ></a>
       {% endif %} {% if author.keybase %}
       <a href="https://keybase.io/{{ author.keybase }}"
