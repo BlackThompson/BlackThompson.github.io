@@ -70,8 +70,8 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 # 🏆 Honors and Awards
 
 - _2025.09_ Student Travel Fund ([Studenterrejsepuljen](https://studerende.au.dk/studier/fagportaler/datalogi/studieliv-og-faciliteter/studenterrejsepuljen)), Aarhus University
-- _2024.08_ Danish State Scholarship \*1
-- _2024.07_ IEEE International Conference on Digital Health (ICDH '24) Best Student Paper
+- _2024.08_ [Danish State Scholarship](https://masters.au.dk/scholarships-and-grants) \*1
+- _2024.07_ IEEE International Conference on Digital Health (ICDH '24) [Best Student Paper](https://services.conferences.computer.org/2024/best-papers/)
 - _2024.06_ China College Students' Innovation and Entrepreneurship Project (National Level, Top 5%)
 
 # 🎓 Educations
