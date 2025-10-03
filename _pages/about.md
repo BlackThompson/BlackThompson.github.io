@@ -45,7 +45,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
   <u>Black Sun</u>, Die (Delia) Hu.
 
-  _Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '24) Wellcomp_
+  _Companion of the 2025 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '25) Wellcomp_
 
 - **Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate.** [[Link](https://dl.acm.org/doi/full/10.1145/3706598.3713853)]
 
