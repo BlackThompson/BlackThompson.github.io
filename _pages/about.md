@@ -55,12 +55,6 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 ### 2024
 
-- **MultiSurf-GPT: Facilitating Context-Aware Reasoning with Large-Scale Language Model Agents for Multimodal Surface Sensing.** [[Link](https://dl.acm.org/doi/abs/10.1145/3640471.3680450)]
-
-  Yongquan Hu, <u>Black Sun</u>, Pengcheng An, Zhuying Li, Wen Hu, Aaron J Quigley.
-
-  _Proceedings of the International Conference on Mobile Human-Computer Interaction (MobileHCI '24) Late-Breaking Work._
-
 - <span style="color:red">(🏆Best Student Paper Award)</span> **NeuroFetalNet: Advancing Remote Electronic Fetal Monitoring with a New Dataset and Comparative Analysis of FHR and UCP Impact.** [[Link](https://ieeexplore.ieee.org/abstract/document/10645942) · [Code](https://github.com/BlackThompson/NeuroFetalNet)]
 
   <u>Black Sun</u>, Jiaqi Zhao, Xinrong Miao, Yanqiao Wu, Min Fang.
