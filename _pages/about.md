@@ -122,7 +122,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 > *I’m truly thankful to my friends (or more than friends) who have supported and been there for me both in my studies and in life. I’m so glad our paths crossed💐.* 
 
-- [Holly Tianqi Song](https://hollysong.notion.site/) (PhD candidate at NUS. I met Holly by chance on RedNote. We share similar academic interests and are trusted friends and collaborators🥰.)
+- [Holly Tianqi Song](https://hollysong.site/) (PhD candidate at NUS. I met Holly by chance on RedNote. We share similar academic interests and are trusted friends and collaborators🥰.)
 - [Chenyi Zhang](https://scholar.google.com/citations?user=fRzf0_0AAAAJ&hl=en) (PhD candidate at University at Buffalo SUNY. We met and became good friends and collaborators while we were both visiting students at SUSTech. Wish Chenyi all the best on her journey in the United States.)
 - [Kexin Huang](https://scholar.google.com/citations?user=xOHik88AAAAJ&hl=en&oi=sra) (Master Student at SUSTech. Kexin was like “family member” to me at SUSTech.)
 - [Yijing Jiang](https://www.yijingjiang.com/) (PhD candidate at Aarhus University. A “strict” and “pushing” boss, but those late nights rushing for UIST over McDonald’s and KFC are truly unforgettable.)
