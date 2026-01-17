@@ -28,6 +28,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🔥 News
 
+- _2026.01_: 🎉🎉🎉 One paper and one workshop proposal are accepted by CHI 2026! Huge thanks to Holly, and special congratulations to her on her first-author CHI Full Paper!!! 👏
 - _2025.07_: 🎉🎉🎉 One paper is accepted by Ubicomp 2025 Wellcomp! Congratulations to my co-author!
 - _2025.07_: 🥰 I am accepted as a Student Volunteer for Ubicomp 2025! See you in Espoo, Finland!
 - _2025.01_: 🎉🎉🎉 One paper is accepted by CHI 2025! My first CHI! Many thanks to my co-author and supervisor!
@@ -38,6 +39,15 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 # 📝 Publications
 
 \* _**equal contribution**_	† ***corresponding author***
+
+### 2026
+
+- **Understanding Older Adults Experiences of Support, Concerns, and Risks from Kinship-Role**
+  **AI-Generated Influencers**
+
+  Tianqi Song, <u>Black Sun</u>, Jingshu Li, Han Li, Chi-Lan Yang, Yijia Xu, Yi-Chieh Lee.
+
+  _Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI '26)._
 
 ### 2025
 
@@ -76,11 +86,11 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🔬 Research Experience
 
-- _2025.07 - present_, [Blended Realities Lab](https://blendedrealities.jensemil.dk/), Aarhus University
+- _2025.07 - 2026.01_, [Blended Realities Lab](https://blendedrealities.jensemil.dk/), Aarhus University
 
   Advised by [Dr. Jens Emil Sloth Grønbæk](https://jensemil.dk/), [Dr. ‪Eve Hoggan](https://eehoggan.github.io/#/), and PhD candidate [Julia Kleinau](https://scholar.google.com/citations?user=QoRWBtIAAAAJ&hl=en).
 
-- _2025.05 - present_, [AI4SG Lab](https://www.ai4sg.org/), National University of Singapore (NUS)
+- _2025.05 - 2026.01_, [AI4SG Lab](https://www.ai4sg.org/), National University of Singapore (NUS)
 
   Advised by [Dr. Yi-Chieh Lee](https://www.yclee.net/) and PhD candidate [Holly Tianqi Song](https://hollysong.notion.site/).
 
