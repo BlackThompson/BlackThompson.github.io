@@ -28,6 +28,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🔥 News
 
+- _2026.02_: 🎉🎉🎉 I’m honored to be awarded the SIGCHI – Gary Marsden Travel Award for CHI 2026! Looking forward to seeing you in Barcelona, Spain!
 - _2026.01_: 🎉🎉🎉 One paper and one workshop proposal are accepted by CHI 2026! Huge thanks to Holly, and special congratulations to her on her first-author CHI Full Paper!!! 👏
 - _2025.07_: 🎉🎉🎉 One paper is accepted by Ubicomp 2025 Wellcomp! Congratulations to my co-author!
 - _2025.07_: 🥰 I am accepted as a Student Volunteer for Ubicomp 2025! See you in Espoo, Finland!
@@ -73,6 +74,7 @@ I like engaging in interdisciplinary exchanges and collaborations with all field
 
 # 🏆 Honors and Awards
 
+- _2026.02_ SIGCHI - Gary Marsden Travel Award
 - _2025.09_ Student Travel Fund ([Studenterrejsepuljen](https://studerende.au.dk/studier/fagportaler/datalogi/studieliv-og-faciliteter/studenterrejsepuljen)), Aarhus University
 - _2024.08_ [Danish State Scholarship](https://masters.au.dk/scholarships-and-grants) \*1
 - _2024.07_ IEEE International Conference on Digital Health (ICDH '24) [Best Student Paper](https://services.conferences.computer.org/2024/best-papers/)
