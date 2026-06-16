@@ -24,7 +24,7 @@ My research interests include human-computer interaction related to <span style=
 
 I like engaging in interdisciplinary exchanges and collaborations with all fields. Feel free to email me if you are interested in **collaborating, discussing research ideas, or just making friends☺️**.
 
-<span style="color:red">🔈**I am actively seeking for 2026 Fall PhD position, please don’t hesitate to contact me if you think I might be a good fit!**</span>
+<!-- <span style="color:red">🔈**I am actively seeking for 2026 Fall PhD position, please don’t hesitate to contact me if you think I might be a good fit!**</span> -->
 
 # 🔥 News
 
