@@ -36,19 +36,8 @@ export const friends = [
       'Master Student at SUSTech. Kexin was like "family member" to me at SUSTech.',
   },
   {
-    id: 'friend-zimo',
-    names: [
-      {
-        name: 'Zimo Xia',
-        url: 'https://gelatinous-poet-461.notion.site/Zimo-s-Homepage-1ea5fb87a35d8031a4dfeeb9c1eeda6c',
-      },
-    ],
-    description:
-      'Master student at NUS. We are both furry fandoms and shared similar research interests.',
-  },
-  {
     id: 'friend-sizhe',
-    names: [{ name: 'Sizhe Cheng', url: 'https://p.pekka.asia/' }],
+    names: [{ name: 'Sizhe Cheng', url: 'https://sparky579.github.io/' }],
     description:
       'Master student at NTU. I only regret not having met Sizhe earlier.',
   },
